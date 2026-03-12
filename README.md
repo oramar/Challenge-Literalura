@@ -1,6 +1,6 @@
 # Challenge-Literalura
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-orange" alt="Java 17">
+  <img src="https://img.shields.io/badge/Java-21-orange" alt="Java 21">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.4-brightgreen" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" alt="Postgres">
 </p>
@@ -19,7 +19,7 @@ LiterAlura es una aplicación de consola desarrollada como parte del challenge d
 5. **Listar libros por idioma:** Filtra los registros según el idioma (ej: EN, ES, FR, PT).
 
 ## 🚀 Tecnologías Utilizadas
-* **Java 17:** Lenguaje principal.
+* **Java 21:** Lenguaje principal.
 * **Spring Boot 3.2.4:** Framework base.
 * **Spring Data JPA:** Para la capa de persistencia y manejo de la base de datos.
 * **PostgreSQL:** Sistema de gestión de base de datos.
@@ -30,9 +30,9 @@ LiterAlura es una aplicación de consola desarrollada como parte del challenge d
 ## ⚙️ Configuración y Ejecución
 
 1. **Requisitos previos:**
-   * Tener instalado Java 17 o superior.
+   * Tener instalado Java 21 o superior.
    * Tener instalado PostgreSQL y una base de datos creada.
 
 2. **Clonar el proyecto:**
    ```bash
-   git clone [https://github.com/tu-usuario/literalura.git](https://github.com/tu-usuario/literalura.git)
+   git clone https://github.com/oramar/Challenge-Literalura.git
